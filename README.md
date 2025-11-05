@@ -2,6 +2,9 @@
 
 ###### by danb1551
 
+This media player is rendered in terminal. I am creating (or alredy created) <br>
+more beautifull (it's not much) GUI Media Player that is <a href="https://github.com/danb1551/GMPC">here</a>.
+
 ### Instalation
 ```bash
 git clone https://github.com/danb1551/mpc
